@@ -1,11 +1,3 @@
-#' Created by Linus Larsson
-#' 2019-02-01
-#' https://lynuhs.com
-
-#' Libraries that need to be loaded
-library(rvest)
-library(ggplot2)
-
 
 #' A trimming function
 #'
