@@ -64,6 +64,8 @@ lynuhs_theme <- function(){
 #' @examples
 #' trustpilot(domain = domain.com)
 trustpilot <- function(domain){
+  library(rvest)
+  library(dplyr)
   url <- paste0("https://www.trustpilot.com/review/", domain, "?languages=all")
 
 
