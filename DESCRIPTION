@@ -7,6 +7,9 @@ Authors@R:
            role = c("aut", "cre"),
            email = "first.last@example.com")
 Description: What the package does (one paragraph).
+Depends:
+	dplyr,
+	rvest
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
