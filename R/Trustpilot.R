@@ -3,6 +3,7 @@
 #' https://lynuhs.com
 
 #' Libraries that need to be loaded
+library(dplyr)
 library(rvest)
 library(ggplot2)
 
